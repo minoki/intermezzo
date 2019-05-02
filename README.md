@@ -62,7 +62,7 @@
 - 12/06 
 - 11/29 
 - 11/22 [さようなら、かざぐるマウス](http://www.google.com/url?q=http%3A%2F%2Fwww.ms.u-tokyo.ac.jp%2F~orita%2Fks%2F2013W.pdf&sa=D&sntz=1&usg=AFQjCNE2O7XOXdVTlNSI-DGYNlQkm1F4JQ)
-- 11/15 [ぼくのかんがえるすうがくけんきゅうほう(UNIXという考え方)](https://drive.google.com/file/d/0B9htKdUA2OvuMHBWTjNOR3NWNDg/edit?usp=sharing) ※
+- 11/15 [ぼくのかんがえるすうがくけんきゅうほう(UNIXという考え方)](https://drive.google.com/file/d/0B9htKdUA2OvuMHBWTjNOR3NWNDg/edit?usp=sharing) ※ なぜかブラウザでは見られませんが、ダウンロードすればアプリケーションによっては見られます。
 - 11/08 
 - 11/01 
 - 10/25 [AltGr キーによる入力省力化](https://drive.google.com/file/d/0BwcfP5FdHgNNdlUxTlVNRE1TWVk)
@@ -81,7 +81,7 @@
 - 05/01 [数学科生のためのプログラミング言語選び](https://sites.google.com/a/utmsks.net/material/20130501talk.pdf?attredirects=0)
 - 04/26 [pTeX 2012→2013](https://docs.google.com/file/d/0BwcfP5FdHgNNZ2hoWk1OZGJPWXc/edit?usp=sharing)
 - 04/19 [Bluetooth](https://docs.google.com/presentation/d/1e6f0nEDlSyuutCNIGED54lamzrbVUJTRQD5tMut3-sE/present#slide=id.p)
-※ なぜかブラウザでは見られませんが、ダウンロードすればアプリケーションによっては見られます。
+
 
 ## 2012
 - 06/15　[PDFにおける図の作成](https://docs.google.com/open?id=0B_b47JvHk1wLbDQ2bGx0U2dGdTg)
